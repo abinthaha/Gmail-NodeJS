@@ -1,0 +1,26 @@
+{
+  "name": "GmailApp",
+  "version": "0.0.0",
+  "description": "Gmail using NodeJS and Database",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abinthaha/Gmail-NodeJS"
+  },
+  "keywords": [
+    "Nothing"
+  ],
+  "author": "Njan thanne",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/abinthaha/Gmail-NodeJS/issues"
+  },
+  "dependencies": {
+    "openshift": "0.0.2",
+    "cloud-env": "~0.1.1",
+    "express": "~4.13.3"
+  }
+}
